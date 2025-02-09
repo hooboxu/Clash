@@ -10,7 +10,11 @@ DOMAIN-SUFFIX,deepseek.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
-# IP段匹配
+
+
+# IP段匹配 VPS
+IP-SUFFIX,107.175.63.246/24
+IP-SUFFIX,148.135.99.70/24
 IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内DNS
