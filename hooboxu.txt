@@ -13,7 +13,7 @@
 ;设置规则标志位
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/Direct.list
 ruleset=🔰 节点选择,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/ProxyLite.list
-ruleset=🤖 人工智能,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/AI.list
+ruleset=💬 OpenAi,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/AI.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
