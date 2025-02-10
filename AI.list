@@ -4,6 +4,8 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
@@ -35,5 +37,5 @@ DOMAIN,www.bingapis.com
 DOMAIN,browser.pipe.aria.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,access-point.cloudmessaging.edge.microsoft.com
-DOMAIN,groq.com
+
 
