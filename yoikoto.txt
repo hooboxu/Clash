@@ -19,7 +19,6 @@ ruleset=🛑 广告拦截,https://github.yoikoto.cn/https://raw.githubuserconten
 ruleset=🍃 应用净化,https://github.yoikoto.cn/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 ruleset=📢 谷歌FCM,https://github.yoikoto.cn/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
 ruleset=🎯 全球直连,https://github.yoikoto.cn/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
-ruleset=🎯 全球直连,https://github.yoikoto.cn/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamCN.list
 ruleset=👨🏿‍💻 GitHub,https://github.yoikoto.cn/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list
 ruleset=Ⓜ️ 微软Bing,https://github.yoikoto.cn/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Bing.list
 ruleset=Ⓜ️ 微软云盘,https://github.yoikoto.cn/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
