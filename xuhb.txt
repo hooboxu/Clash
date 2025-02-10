@@ -12,9 +12,9 @@
 
 ;设置规则标志位
 ruleset=📺 小红书,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/XiaoHX.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/Direct.list
-ruleset=🔰 节点选择,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/ProxyLite.list
 ruleset=💬 OpenAi,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/OpenAI.list
+ruleset=🔰 节点选择,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/ProxyLite.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/Direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
