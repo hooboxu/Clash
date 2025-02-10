@@ -11,6 +11,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
+ruleset=📺 小红书,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/XiaoHX.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/Direct.list
 ruleset=🔰 节点选择,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/ProxyLite.list
 ruleset=💬 OpenAi,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/AI.list
@@ -36,7 +37,6 @@ ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Nintendo.list
 ruleset=📹 油管视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 ruleset=🎥 奈飞视频,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
-ruleset=📺 小红书,https://raw.githubusercontent.com/hooboxu/Clash/refs/heads/main/XiaoHX.list
 ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=🔰 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
