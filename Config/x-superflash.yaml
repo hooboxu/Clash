@@ -176,12 +176,6 @@ proxy-groups:
     type: select
     proxies:
       - ♻️ 自动选择
-      - 🌐 连不上了？更新订阅
-      - "官网:x-superflash.com"
-      - "备用:2-superflash.com"
-      - "旧址:x-superspeed.com"
-      - "连不上?尝试更新订阅"
-      - "有问题?联系客服"
       - "官网进不了?先关VPN开关"
       - "🇸🇬 极速 专线 新加坡 01 "
       - "🇸🇬 极速 专线 新加坡 02 "
