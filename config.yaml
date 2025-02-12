@@ -7,7 +7,7 @@ proxy-providers:
       url: https://www.gstatic.com/generate_204
       interval: 300
     proxy: 🟢 直连
-    url: "https://su.x-theflash.com:8888/api/v1/client/subscribe?token=a1b6e27e071efaee18e1319d41e6570e"
+    url: "--"
 
 proxies:
 - name: "🟢 直连"
