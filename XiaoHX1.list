@@ -1,0 +1,16 @@
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,gepush.com
+DOMAIN-SUFFIX,getui.net
+DOMAIN-SUFFIX,dbankcloud.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,zztfly.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,dutils.com
+
+IP-CIDR,47.101.67.88/32,no-resolve
+IP-CIDR,198.18.0.15/32,no-resolve
+IP-CIDR,27.44.204.147/32,no-resolve
+IP-CIDR,101.132.183.67/32,no-resolve
