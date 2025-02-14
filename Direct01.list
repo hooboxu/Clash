@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,verysync.cn
 DOMAIN-SUFFIX,sub.yoikoto.cn
 DOMAIN-SUFFIX,github.yoikoto.cn
+DOMAIN-SUFFIX,firmware-selector.immortalwrt.org
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
