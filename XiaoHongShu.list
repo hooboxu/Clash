@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,gepush.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,xhscdn
