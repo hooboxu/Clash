@@ -1,5 +1,9 @@
-# NAME: XiaoHongShu
+# 域名: XiaoHongShu
 DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,xhscdn
+DOMAIN-KEYWORD,xiaohongshu
