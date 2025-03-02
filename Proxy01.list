@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,wkdaily.cpolar.top
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,dl.google.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,av9
