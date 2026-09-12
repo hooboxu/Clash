@@ -1,6 +1,6 @@
-# 内容：OpenAI / Claude / Gemini / Grok / Copilot 完整分流规则
+# 内容：OpenAI / Claude / Gemini / Grok / Copilot / Civitai 完整分流规则
 
-# 域名关键字匹配 (兜底拦截)
+# 域名关键字匹配
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
@@ -32,9 +32,11 @@ DOMAIN-SUFFIX,servicedx.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
-# 4. Google Gemini / Bard
+# 4. Google Gemini / Bard / AI Studio
+DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,static.usercontent.goog
 DOMAIN,gemini.gstatic.com
@@ -59,3 +61,8 @@ DOMAIN,edgeservices.bing.com
 DOMAIN,functional.events.data.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bingapis.com
+
+# 6. 其他补充 AI / 绘画工具 (已加上你老规则遗漏的条目)
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,opera-api.com
