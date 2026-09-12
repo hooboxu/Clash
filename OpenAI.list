@@ -1,4 +1,4 @@
-# 内容：OpenAI / Claude / Gemini / Grok / Copilot / Civitai 完整分流规则
+# 内容：OpenAI (含 Sora) / Claude / Gemini / Grok / Copilot / Civitai 完整分流规则
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
@@ -6,12 +6,13 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,xai
 
-# 1. OpenAI / ChatGPT
+# 1. OpenAI / ChatGPT / Sora
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
@@ -62,7 +63,7 @@ DOMAIN,functional.events.data.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bingapis.com
 
-# 6. 其他补充 AI / 绘画工具 (已加上你老规则遗漏的条目)
+# 6. 其他 AI / 绘图服务
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,opera-api.com
