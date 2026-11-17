@@ -52,3 +52,8 @@ doona 面板地址（首次打开创建管理员）
 复制
 APACHE
 http://路由器IP:9090/ui/
+
+
+增加host
+echo "192.168.1.110 nas.yoikoto.cn" >> /etc/hosts
+/etc/init.d/honk restart
