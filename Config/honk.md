@@ -54,6 +54,17 @@ APACHE
 http://路由器IP:9090/ui/
 
 
-增加host
-echo "192.168.1.110 nas.yoikoto.cn" >> /etc/hosts
-/etc/init.d/honk restart
+
+
+最终的三处 honk 改动（都在 /etc/honk/config.dae）
+global {
+    lan_interface: 'br-lan', 'tailscale0'   # ① 隧道流量纳入代理 ← 核心修复
+    wan_interface: auto
+}
+routing {
+    dip(100.64.0.0/10) -> direct(must)      # ② 放行 Tailscale 网段（MagicDNS）
+}
+dns {
+    use_host: true                           # ③ honk 读 /etc/hosts
+}
+外加 /etc/hosts 一行：`192.168.1.110 nas.yoikoto.cn`
